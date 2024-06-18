@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: https://cover.sli.dev
+background: top.jpg
 title: Alfred と Raycast を併用したら便利だった話
 class: text-center
 highlighter: shiki
@@ -48,14 +48,16 @@ hideInToc: true
 
 # [Raycast](https://www.raycast.com/) の特徴
 
-- Alfred の対抗馬の新生ランチャーアプリ
-  - こちらも macOS のみ
+- macOS で使える新生ランチャーアプリ
+- 機能的には無料版で Alfred の有料版に匹敵する
 - モダンな UI/UX
-  - 串刺し検索できる Alfred に対して Raycast はモーダル的
+  - ただし Extension を選択してから対象や操作を検索する必要があるケースが多い
+    - Alfred は串刺し検索できる
 - 地味に便利なツールが入っている
   - e.g. Floating Notes, Calculator
 - サードパーティによる Extension 開発が活発
   - ニッチなサービスと連携する Extension も割とある
+- Hotkey の管理などがラク
 - 価格
   - 有料版は $8/month (¥1,250/月)
   - 無料版で十分な人が多そう
@@ -67,8 +69,8 @@ hideInToc: true
 - 原則 Alfred を使用する (⌘ + Space)
   - やはり串刺し検索できる Alfred の方が効率的
   - Raycast には (⌥ + Space) を割り当てる
-- Hotkey に登録する使用頻度の高い機能は Raycast を使用する
-  - Hotkey ならモーダル的でもほぼ気にならない
+- Hotkey に登録して使う使用頻度の高い機能は Raycast を使用する
+  - Hotkey なら串刺し検索できなくても気にならない
   - e.g.
     - Floating Notes
     - Apple Music の Toggle Play/Pause
@@ -80,7 +82,7 @@ hideInToc: true
 
 # まとめ
 
-それぞれいいところがあるので併用することでより便利になった
+それぞれ得意なことが微妙に異なり、併用することでより便利になった
 
 | 特徴         |    Alfred    |  Raycast  |
 | ------------ |:------------:|:---------:|
