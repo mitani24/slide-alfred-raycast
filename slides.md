@@ -31,7 +31,7 @@ hideInToc: true
 |---| ------ | ------- |
 | Initial Release | (2010) | (2020) |
 | Stable Release | v5.5 (2024) | v1.77.0 (2024) |
-| 有料版 | £34 (¥6,891) | $8/month (¥1,278/月) |
+| 有料版 | £34~ (¥6,891~) | $8~/month (¥1,278~/月) |
 
 <div class="mt-4 text-right text-xs text-gray">
 ※ 価格は 2024-06-26 時点の為替レート (1 USD = 159.78 JPY, 1 GBP = 202.69 JPY) に基づいて換算しています
