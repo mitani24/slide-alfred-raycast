@@ -44,16 +44,6 @@ layout: fact
 
 ⌥ Option + Space
 
-<div class="flex justify-center">
-<div class="w-sm text-left">
-
-```txt {monaco}
-
-```
-
-</div>
-</div>
-
 <!--
 - 検索
   - アプリ (e.g. Notion)
@@ -74,16 +64,6 @@ layout: fact
 # Raycast のデモ
 
 ⌘ Command + Space
-
-<div class="flex justify-center">
-<div class="w-sm text-left">
-
-```txt {monaco}
-
-```
-
-</div>
-</div>
 
 <!-- 
 - 検索
